@@ -1,7 +1,6 @@
-# CoR
-Code of the Revolutionary
+# Code of the Revolutionary
 
-## License
-CC0, Public Domain
+Original (Pilot) Film Project
 
-[LICENSE.md](/LICENSE.md)
+- [Synopsis](CoR_Synopsis.md)
+- [License (CC0)](/LICENSE.md)
