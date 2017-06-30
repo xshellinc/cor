@@ -1,6 +1,6 @@
 # Code of the Revolutionary
 
-Original (Pilot) Film Project
+Original 3DCG Animation Project
 
-- [Synopsis](CoR_Synopsis.md)
+- [Synopsis](/CoR_Synopsis.md)
 - [License (CC0)](/LICENSE.md)
